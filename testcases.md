@@ -7,6 +7,8 @@
 
 ---
 
+
+
 ## Goal
 The objective of this project is to set up **Nginx as a reverse proxy** and integrate it with **Keycloak for authentication**.  
 - A user request is sent to **Nginx (Reverse Proxy)**.  
